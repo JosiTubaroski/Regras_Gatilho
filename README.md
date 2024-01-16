@@ -1,1 +1,1 @@
-# Regras_Gatilho
+# Regras de Gatilho
